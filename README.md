@@ -1,1 +1,88 @@
-# Lalitha.Kadiyala
+
+**Project: QA Automation Coding Challenge – UI Web /API Automation**
+
+**Project Name**
+Framework support validating the “Home Values” form web site.
+
+**Domain-eCommerce**
+
+**Modules**
+1. Home Page Module
+2. Home Values Module
+3. Search Home Values Module
+
+
+
+**Environment/Tools**
+PHP, Java, Web Server (Apache), MySQL
+**Testing Tools**
+Java and Selenium Web Driver (GUI Functional Automation Testing),
+ RestAssured (API Testing)
+**Other tools:** TestNG, Cucumber, Maven, Jenkins, Git, Log4j, Extent reports
+
+
+**Roles & Responsibilities**
+
+1.  Involved in designing Test cases and Test Plan.
+2.  Testing Approach: Manual and Automated
+3.  Executing Tests and analyzing results as per client requirements.
+4.  Detecting the bugs and classifying them based on the severity and reporting.
+5.  Involved in Web Testing (Functional)using Selenium WebDriver.
+6.  Involved in API Testing with Postman Tool. 
+7.  Wrote test scripts and test cases to meet assigned requirements
+8.  Tracked the status of defects and provided a status report.
+9.  Prepared and executed functional and regression testing
+10. Created and executed test cases, logged and assigned defects, and kept track of the defect status
+11. Selenium Test Environment Setup (Maven Integration, Selenium WebDriver, Java, JUNIT and Jenkins Integration…)
+12. Inspecting Elements, Create Test Cases using Element locators and Selenium WebDriver Commands.
+13. Involved in writing Page Object Classes, test scripts and creating utilities using Java & Selenium WebDriver.
+14. Debugging and Running Automation Test script.
+15. Created, Organized and managed Test Automation Resources.
+16. Communicated with the project management team and QA Lead to resolve defects
+17. Logged both test results and bug reports.
+
+
+**GUI Tests:**
+**Tested below scenarios in the application (Frontend)**
+1. Validate the Landing on the Home page of http://www.homegain.com/homevalues.
+2. Validate the working of entering a valid Zip Code.
+3. Validate the working of subsequent form.
+4. Validate the working of Selection of the Home Values page on Subsequent form.
+5. Validate the working of the continue button
+6. Validate the landing of the Home Address page with the cursor placed on the search bar to enter the home address.
+7. Validate the working of Search functionality
+8. Validate the working of Search Home Values.
+
+**API Tests:**
+
+Tested below APIs (Backend)
+1. https://petstore.swagger.io/v2/pet
+2. https://petstore.swagger.io/v2/pet
+3. https://petstore.swagger.io/v2/user/login
+4. https://petstore.swagger.io/v2/store/inventory
+
+
+
+**MANAGE CATEGORIES WITH  REST API**
+
+1. Get pet details by ID
+2. Get pet by Status
+3. Get purchase order by id
+4. Get user login
+5. Update pet in the store by form data
+6. Delete a pet
+7. Place an order of the pet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
