@@ -18,7 +18,7 @@ PHP, Java, Web Server (Apache), MySQL
 **Testing Tools**
 Java and Selenium Web Driver (GUI Functional Automation Testing),
 
-**Other tools:** TestNG, Cucumber, Maven, Jenkins, Git, Log4j, Extent reports
+**Other tools:** TestNG, Cucumber, Maven, Jenkins, Git, Log4j, Extent reports, junit(tetsing framework)
 
 
 **Roles & Responsibilities**
@@ -53,8 +53,13 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
 7. Validate the working of Search functionality
 8. Validate the working of Search Home Values.
 
-Performance metrics is included in reports/myreport.html folder in the framework.
-Logs are oncluded in LOgs folder.
+
+Feature file-home_gain.feature
+Page object class Home_Page1.java
+Step Definitions  Steps_Home.java
+Test excecuetion starts from TestRun.java
+Performance metrics is included in reports/myreport.html folder 
+Logs are oncluded in Logs folder.
 
 
 
