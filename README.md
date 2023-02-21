@@ -68,6 +68,8 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
 
 **Environment/Tools PHP**, Java, RestAssured, JAva/Maven.
 
+Pet_Samrt_Tests folder includes all the API tests mentioned below.
+
  **GET_PET_ID class includes API_tests**
    1. https://petstore.swagger.io/v2/pet/findByStatus?status=available-- Get pet by Status
    2. https://petstore.swagger.io/v2/pet/findByStatus?status=pending -- Get pet by Status
