@@ -53,6 +53,10 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
 7. Validate the working of Search functionality
 8. Validate the working of Search Home Values.
 
+Performance metrics is included in reports/myreport.html folder in the framework.
+Logs are oncluded in LOgs folder.
+
+
 
 
 **API Tests:**
@@ -78,7 +82,8 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
   1. https://petstore.swagger.io/v2/pet/9--Delete a pet
 
 **   Validation that are inclided in the tests **
-   Status code, body.headers.
+ 
+ Status code, body.headers.
    
    
    
