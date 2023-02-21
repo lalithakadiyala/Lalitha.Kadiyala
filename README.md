@@ -64,6 +64,7 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
     
     
 **** POSTPetSmart class  inlcudes API Tests****
+
    1.https://petstore.swagger.io/v2/pet. --Add a new pet to the store
    2.https://petstore.swagger.io/v2/pet --Update pet in the store with form data
     
