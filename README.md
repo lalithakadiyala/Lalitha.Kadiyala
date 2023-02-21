@@ -57,21 +57,21 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
 
 **API Tests:**
  **GET_PET_ID class includes API_tests**
-    https://petstore.swagger.io/v2/pet/findByStatus?status=available-- Get pet by Status
-    https://petstore.swagger.io/v2/pet/findByStatus?status=pending -- Get pet by Status
-    https://petstore.swagger.io/v2/pet/findByStatus?status=sold -- Get pet by Status
-    https://petstore.swagger.io/v2/pet' --Get pet details by ID
+   1. https://petstore.swagger.io/v2/pet/findByStatus?status=available-- Get pet by Status
+   2. https://petstore.swagger.io/v2/pet/findByStatus?status=pending -- Get pet by Status
+   3. https://petstore.swagger.io/v2/pet/findByStatus?status=sold -- Get pet by Status
+   4. https://petstore.swagger.io/v2/pet' --Get pet details by ID
     
     
 **** POSTPetSmart class  inlcudes API Tests****
-    https://petstore.swagger.io/v2/pet. --Add a new pet to the store
-    https://petstore.swagger.io/v2/pet --Update pet in the store with form data
+   1.https://petstore.swagger.io/v2/pet. --Add a new pet to the store
+   2.https://petstore.swagger.io/v2/pet --Update pet in the store with form data
     
 **Put_pet_info class includes API Tests**
-   https://petstore.swagger.io/v2/pet  -Update an existing pet
+  1. https://petstore.swagger.io/v2/pet  -Update an existing pet
    
  **Dlete_Pet incluced API tests**
-   https://petstore.swagger.io/v2/pet/9--Delete a pet
+  1. https://petstore.swagger.io/v2/pet/9--Delete a pet
 
 **   Validation that are inclided in the tests **
    Status code, body.headers.
