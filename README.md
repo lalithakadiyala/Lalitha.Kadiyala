@@ -17,7 +17,7 @@ Framework support validating the “Home Values” form web site.
 PHP, Java, Web Server (Apache), MySQL
 **Testing Tools**
 Java and Selenium Web Driver (GUI Functional Automation Testing),
- RestAssured (API Testing)
+
 **Other tools:** TestNG, Cucumber, Maven, Jenkins, Git, Log4j, Extent reports
 
 
@@ -56,6 +56,8 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
 
 
 **API Tests:**
+
+**Environment/Tools PHP**, Java, RestAssured, JAva/Maven.
 
  **GET_PET_ID class includes API_tests**
    1. https://petstore.swagger.io/v2/pet/findByStatus?status=available-- Get pet by Status
