@@ -54,12 +54,12 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
 8. Validate the working of Search Home Values.
 
 **Framework structure**
-1. Feature file-home_gain.feature
-2. Page object class Home_Page1.java
-3. Step Definitions  Steps_Home.java
-4. Test excecuetion starts from TestRun.java
+1. Feature file-features/home_gain.feature
+2. Page object class pageObjects/Home_Page1.java
+3. Step Definitions  stepDefinitons/Steps_Home.java
+4. Test excecuetion starts from testRunner/TestRun.java
 5. Performance metrics is included in reports/myreport.html folder 
-6. Logs are oncluded in Logs folder.
+6. Logs are oncluded in Logs/automation2023-02-21.log folder.
 
 
 
