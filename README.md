@@ -53,25 +53,36 @@ Java and Selenium Web Driver (GUI Functional Automation Testing),
 7. Validate the working of Search functionality
 8. Validate the working of Search Home Values.
 
+
+
 **API Tests:**
+ **GET_PET_ID class includes API_tests**
+    https://petstore.swagger.io/v2/pet/findByStatus?status=available-- Get pet by Status
+    https://petstore.swagger.io/v2/pet/findByStatus?status=pending -- Get pet by Status
+    https://petstore.swagger.io/v2/pet/findByStatus?status=sold -- Get pet by Status
+    https://petstore.swagger.io/v2/pet' --Get pet details by ID
+    
+    
+**** POSTPetSmart class  inlcudes API Tests****
+    https://petstore.swagger.io/v2/pet. --Add a new pet to the store
+    https://petstore.swagger.io/v2/pet --Update pet in the store with form data
+    
+**Put_pet_info class includes API Tests**
+   https://petstore.swagger.io/v2/pet  -Update an existing pet
+   
+ **Dlete_Pet incluced API tests**
+   https://petstore.swagger.io/v2/pet/9--Delete a pet
 
-Tested below APIs (Backend)
-1. https://petstore.swagger.io/v2/pet
-2. https://petstore.swagger.io/v2/pet
-3. https://petstore.swagger.io/v2/user/login
-4. https://petstore.swagger.io/v2/store/inventory
+**   Validation that are inclided in the tests **
+   Status code, body.headers.
+   
+   
+   
+   
+   
 
+ 
 
-
-**MANAGE CATEGORIES WITH  REST API**
-
-1. Get pet details by ID
-2. Get pet by Status
-3. Get purchase order by id
-4. Get user login
-5. Update pet in the store by form data
-6. Delete a pet
-7. Place an order of the pet
 
 
 
